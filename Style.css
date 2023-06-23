@@ -9,6 +9,7 @@ fieldset{border-radius: 10px;}
 .desktop li a{color: aliceblue; text-decoration: none;}
 .mobile{display: none;}
 .item{width: 25%;}
+.item:hover{border-radius: 50px;}
 .input100{width: 100%;}
 @media only screen and (max-width: 1023px)
 {
